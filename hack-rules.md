@@ -124,7 +124,7 @@ main          → Production-ready, demo branch
 | All days | 19:00 – 20:00 | Demo check-in (show what works) |
 
 ### The "Shutdown Rule"
-- **No new features after Day 5 (Friday 19:00).**
+- **No new features after Day 5 (19:00).**
 - Day 6–7 is for polish, bug fixes, blog writing, and demo rehearsal only.
 - Breaking this rule risks an unstable demo.
 
